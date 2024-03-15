@@ -12,4 +12,3 @@ area = get_circle_area(r)
 r = str(r)
 result = "3.14 x " + r + " x " + r + " = " + area
 print("반지름 " + r + "인 원의 넓이 = " + result)
-#
